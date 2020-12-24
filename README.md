@@ -29,7 +29,7 @@ This app allows you to.....
 
 ### Screenshot of the App showing reasons why some employee might leave (i.e. Attrition = "Yes").
 <p align="center">
-  <img src="https://github.com/hhlamba/People-Analytics/blob/main/R%20Shiny%20Web%20App.png" width="1000" title="R Shiny App" border="1">
+  <img src="https://github.com/hhlamba/People-Analytics/blob/main/Output/R%20Shiny%20Web%20App.png" width="1000" title="R Shiny App" border="1">
 </p>
 
 ### Screenshot of the Dataset Exploration Tab.
