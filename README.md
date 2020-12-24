@@ -32,3 +32,17 @@ This app allows you to.....
   <img src="https://github.com/hhlamba/People-Analytics/blob/main/R%20Shiny%20Web%20App.png" width="1000" title="R Shiny App" border="1">
 </p>
 
+### Screenshot of the Dataset Exploration Tab.
+<p align="center">
+  <img src="https://github.com/hhlamba/People-Analytics/blob/main/Output/HR%20-%20dataset.png" width="1000" title="Dataset Exlporation" border="1">
+</p>
+
+### Screenshot of the Summary Statistics Tab.
+<p align="center">
+  <img src="https://github.com/hhlamba/People-Analytics/blob/main/Output/HR%20-%20summary%20Stat.png" width="1000" title="Summary Statitics" border="1">
+</p>
+
+### Screenshot of the Distribution Analysis Tab.
+<p align="center">
+  <img src="https://github.com/hhlamba/People-Analytics/blob/main/Output/HR%20-%20Distribution%20Viz.png" width="1000" title="Distribution Analysis" border="1">
+</p>
